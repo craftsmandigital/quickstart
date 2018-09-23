@@ -5,3 +5,12 @@ draft: true
 ---
 
 ##det er helt fantastisk naa er jeg igang med hugo morro
+
+
+
+
+Fremgangsmaate for aa installere fra github til en ny maskin
+
+git clone --recursive https://github.com/hackingjack/quickstart.git
+hugo server -D
+http://localhost:1313/
